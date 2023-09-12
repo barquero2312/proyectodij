@@ -39,8 +39,8 @@
           </div>
           <div class="col-lg-10 col-md-8 text-center text-lg-right text-md-right">
             <div class="header-top-info">
-              <a href="tel:+23-345-67890">Call Us : <span>+506 8411-4793</span></a>
-              <a href="mailto:support@gmail.com"><i class="fa fa-envelope mr-2"></i><span>investingDIJ@gmail.com</span></a>
+              <a href="tel:+23-345-67890">Call Us : <span>+506 6203-4896</span></a>
+              <a href="mailto:support@gmail.com"><i class="fa fa-envelope mr-2"></i><span>bs_capital@hotmail.com</span></a>
             </div>
           </div>
         </div>
